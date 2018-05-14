@@ -1,0 +1,15 @@
+﻿Installing assembly 'E:\Q3_K142182\Q3_K142182\bin\Debug\Q3_K142182.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Q3_K142182\Q3_K142182\bin\Debug\Q3_K142182.InstallLog
+   assemblypath = E:\Q3_K142182\Q3_K142182\bin\Debug\Q3_K142182.exe
+   logtoconsole = 
+Installing service RSSfeedService...
+Service RSSfeedService has been successfully installed.
+Creating EventLog source RSSfeedService in log Application...
+Committing assembly 'E:\Q3_K142182\Q3_K142182\bin\Debug\Q3_K142182.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Q3_K142182\Q3_K142182\bin\Debug\Q3_K142182.InstallLog
+   assemblypath = E:\Q3_K142182\Q3_K142182\bin\Debug\Q3_K142182.exe
+   logtoconsole = 

@@ -1,0 +1,8 @@
+E:\Q3_K142182\Q3_K142182\bin\Debug\Q3_K142182.exe.config
+E:\Q3_K142182\Q3_K142182\bin\Debug\Q3_K142182.exe
+E:\Q3_K142182\Q3_K142182\bin\Debug\Q3_K142182.pdb
+E:\Q3_K142182\Q3_K142182\obj\Debug\Q3_K142182.csprojResolveAssemblyReference.cache
+E:\Q3_K142182\Q3_K142182\obj\Debug\Q3_K142182.ProjectInstaller.resources
+E:\Q3_K142182\Q3_K142182\obj\Debug\Q3_K142182.csproj.GenerateResource.Cache
+E:\Q3_K142182\Q3_K142182\obj\Debug\Q3_K142182.exe
+E:\Q3_K142182\Q3_K142182\obj\Debug\Q3_K142182.pdb
